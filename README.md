@@ -17,6 +17,6 @@ ln -s /datasets/Caltech256/* Caltech256
 2.The ESGAN architecture is implemented in model.py and block.py, the loss function is implemented in loss.py.
 
 ## demonstration.ipynb used for demostration
-The HR, LR and SR images are stored in HR, LR and SR respectively.
+1.The HR, LR and SR images are stored in HR, LR and SR respectively.
 <br>
-The trained model, pretrained model from https://github.com/xinntao/ESRGAN and fine tuned model are stored in SavedNetworks.
+2.The trained model, pretrained model from https://github.com/xinntao/ESRGAN and fine tuned model are stored in SavedNetworks.
